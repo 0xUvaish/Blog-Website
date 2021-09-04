@@ -1,5 +1,5 @@
 # Blog-Website
-Version 1 of a simple To-Do list app. 
+A Blog web application with simple and rich UI to create new blog posts. 
 
 ## Getting started
 These instructions will help you in starting the project once you have cloned it to your PC.
