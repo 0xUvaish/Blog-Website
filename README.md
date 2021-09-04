@@ -23,5 +23,4 @@ If you have MongoDB already installed then it's well and good else you can downl
 
 ## Developer
 * **Mohd Uvaish Siddiqui** 
-<br>   [Github](https://github.com/0xUvaish)
 <br>   [Linkedin](https://www.linkedin.com/in/usvr/)
